@@ -1,6 +1,6 @@
 # Penguins web app deployed on Heroku
 
-The deployed web app is live at https://zdhiman-penguins.herokuapp.com/
+The deployed web app is live at [Heroku](https://zdhiman-penguins.herokuapp.com/) and [Streamlit Share](https://share.streamlit.io/zdhiman/penguins/penguins-app.py)
 
 This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
 
